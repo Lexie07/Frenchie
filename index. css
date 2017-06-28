@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Arapey|Monoton|Shadows+Into+Light+Two');
-h1{
+      h1{
         color: pink;
         font-family: 'Monoton', cursive;
       }
@@ -14,3 +14,13 @@ h1{
       section1{
         color: navy;
       }
+      #img{
+        width:auto;
+        height:auto;
+        border-radius: 50px;
+      }
+      #img2 {
+        width: 50%;
+        height: 50%;
+        border-radius: 50%
+        }
