@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Arapey|Monoton|Shadows+Into+Light+Two');
 h1{
         color: pink;
         font-family: 'Monoton', cursive;
